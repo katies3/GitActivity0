@@ -1,5 +1,5 @@
 # Git Activity 0 - Cloning a repository and using the code as your own
-#I like making comments
+#I like making comments. this is a comment to demo changes.
 This first activity is for information only.  You will not need to complete this activity, but you may want to know how you can do this at some point.
 
 If you are struggling with any of the concepts required for this assignment, make sure to review the video course to find out more about how to perform a specific command, or just get more practice and understanding of the topic presented.
