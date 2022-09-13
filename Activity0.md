@@ -1,4 +1,4 @@
-#This change was made to complete Activity 1
+#I'm modifying this file to complete Activity 1
 
 # Git Activity 0 - Cloning a repository and using the code as your own
 #I like making comments. this is a comment to demo changes.
