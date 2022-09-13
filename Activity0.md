@@ -1,3 +1,5 @@
+#This change was made to complete Activity 1
+
 # Git Activity 0 - Cloning a repository and using the code as your own
 #I like making comments. this is a comment to demo changes.
 This first activity is for information only.  You will not need to complete this activity, but you may want to know how you can do this at some point.
